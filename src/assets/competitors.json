@@ -1,0 +1,62 @@
+[
+    {
+        "Id": "17",
+		"FirstName": "Muna ",
+		"MiddleName": "Mahad",
+		"LastName": "Jamac",
+        "Age": "20",
+        "PersonalBackground": "Magaceygu Waa Muna mahad jamac waxaan jiraa 20sano waxaan Ka soo jedaa galmudug Waxn dhameyay school waxn rajeynaa in aan noqdo Fashion designer.Hada waxaan utartamayaa quruxda hablaha somaliyeed abaalmarinta Miss somalia 2023 waxaan rajaynaa inaad iicodaysaan mahadsanidiin. ",
+        "RepresentingState": "Galmudug",
+        "Photo": "./images/image1.png",
+		"NumberofVotes": "5922"
+
+    },
+    {
+        "Id": "17",
+		"FirstName": "AISHA",
+		"MiddleName": "OSMAN ",
+		"LastName": "IIKOW",
+        "Age": "23",
+        "PersonalBackground": "Magaceygu waa Aisha Osman Iikow waxaan jiraa 23sano wxaan ka soo jeedaa koonfur galbed Waxaan dhigtaa jaamacad Hada waxaan utartamayaa quruxda hablaha somaliyeed abaalmarinta Miss somalia 2023 waxaan rajaynaa inaad iicodaysaan mahadsanidiin ",
+        "RepresentingState": "K/Galbeed",
+        "Photo": "./images/image2.jpg",
+		"NumberofVotes": "5320"
+
+    },
+    {
+        "Id": "17",
+		"FirstName": "Ridwan",
+		"MiddleName": "Hassan",
+		"LastName": "Abdi",
+        "Age": "20",
+        "PersonalBackground": "Magaceygu Waa Ridwan hassan Abdi waxaanjiraa 20sano Waxaan Ka Soo jeedaa kaso jeedaa jubaland waxaan dhigtaa jaamacad waxaan jeclahy inaan xaququl insanka ka shaqeyo. Hada waxaan utartamayaa quruxda hablaha somaliyeed abaalmarinta Miss somalia 2023 waxaan rajaynaa inaad iicodaysaan mahadsanidiin ",
+        "RepresentingState": "jubland",
+        "Photo": "./images/image3.jpg",
+		"NumberofVotes": "617"
+
+    },
+    {
+        "Id": "17",
+		"FirstName": "Simraan",
+		"MiddleName": "Abdukadir",
+		"LastName": "MOHAMED",
+        "Age": "18",
+        "PersonalBackground": "Magaceygu Waa Faatima abdi Mohamed waxaan jiraa 24sano waxaan ka soo jeedaa Khatumo state waxaan dhameeyey High school. Hada waxaan utartamayaa quruxda hablaha somaliyeed abaalmarinta Miss somalia 2023 waxaan rajaynaa inaad iicodaysaan mahadsanidiin",
+        "RepresentingState": "Hirshabelle",
+        "Photo": "./images/image4.png",
+		"NumberofVotes": "425"
+
+    },
+    {
+        "Id": "17",
+		"FirstName": "FATIMA",
+		"MiddleName": "ABDI",
+		"LastName": "MOHAMED",
+        "Age": "24",
+        "PersonalBackground": "Magaceygu Waa Faatima abdi Mohamed waxaan jiraa 24sano waxaan ka soo jeedaa Khatumo state waxaan dhameeyey High school. Hada waxaan utartamayaa quruxda hablaha somaliyeed abaalmarinta Miss somalia 2023 waxaan rajaynaa inaad iicodaysaan mahadsanidiin",
+        "RepresentingState": "Khaatumo State",
+        "Photo": "./images/image5.png",
+		"NumberofVotes": "321"
+
+    }
+]

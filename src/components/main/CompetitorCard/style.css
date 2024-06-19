@@ -1,0 +1,70 @@
+.holly-card{
+    background-color: white;
+    height:  95%;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    /* margin-top: 30px; */
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    
+    }
+
+    .image-part{
+        flex: 3.5;
+        width: 100%;
+        margin-bottom: 20px;
+        border-radius: 10px;
+        position: relative;
+     
+
+    }
+
+    .buttomPart{
+        flex: 1;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .votes{
+        font-size: 25px;
+        font-weight: bold;
+        background-color: #06A5E6;
+        width: 200px;
+        text-align: center;
+        border-radius: 20px;
+        color: white;
+    }
+    .holly-card h3{
+        font-size: 28px;
+        font-weight:bold;
+         /* Adjust the value as needed */   
+         word-spacing: 10px;     
+
+    }
+    .holly-card span{
+        font-size: 20px;
+        font-weight: 600;
+        font-family: 'Times New Roman', Times, serif;
+        letter-spacing: 2px;
+    }
+
+    .icon{
+        background-color: #06A5E6;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 25px;
+        color: white;
+        position: absolute;
+        right: 10px;
+        top: 10px;
+    }

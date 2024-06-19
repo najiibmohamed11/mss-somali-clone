@@ -1,0 +1,41 @@
+
+.CardGrid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    background-color: #F1F0F9;
+    gap: 30px;
+    row-gap: 10px;
+    padding: 20px;
+    
+    width: 80%;
+    margin: 0 auto;
+    height: 190vh;
+}
+// .hollyCard{
+//     display: flex;
+//     flex-direction: column;
+//     justify-content: center;
+//     align-items: center;
+//     text-align: center;
+   
+//     width: 95%;
+//     height: 80%;
+//     justify-content: center;
+//     background-color: white;
+//     .imgPart{
+//         width: 95%;
+//         height: 60%;
+//         div{
+//             border-radius: 10px;
+//             padding: 30px;
+
+//         }
+
+
+
+//     }
+// }
+
+
+
+

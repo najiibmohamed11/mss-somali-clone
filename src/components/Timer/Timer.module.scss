@@ -1,0 +1,87 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    justify-content: center;
+    margin: 0 auto;
+    align-items: center;
+    height: 80vh;
+    h1{
+        text-align: center;
+        font-size: 50px
+    };
+    h3{
+        text-align: center;
+        font-size: 20px;
+        letter-spacing: 8px; /* Adjust the value as needed */        
+    }
+ 
+
+}
+
+
+
+.votingEnd{
+    h3 {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+    h3:after {
+        display: inline-block;
+        margin: 0 0 8px 20px;
+        height: 2px;
+        content: " ";
+        text-shadow: none;
+        background-color: #999;
+        width: 150px;
+    }
+    h3:before {
+        display: inline-block;
+        margin: 0 20px 8px 0;
+        height: 2px;
+        content: " ";
+        text-shadow: none;
+        background-color: #999;
+        width: 140px;
+    }
+}
+
+.allTime{
+    display: flex;
+    text-align: center;
+    width: 100%;
+    text-align: center;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.digitUnit{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    text-align: center;
+    justify-content: space-around;
+    border-right: 1px solid #ccc;
+
+
+
+
+}
+    
+.digit{
+    font-size: 90px;
+    font-weight: bold;
+    color: black;
+    margin-top: 10px;
+}
+
+.text{
+    font-size: 40px;
+    font-weight: 500;
+    color: black;
+    margin-top: 10px;
+
+}
